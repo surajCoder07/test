@@ -1,5 +1,0 @@
-{{#user}}
-Name: Suraj Singh
-Skills: HTML,CSS,JS,React,TailwindCss,Redux-toolkit
-Email:surajsinghdangi3@gmail.com
-{{/user}}
