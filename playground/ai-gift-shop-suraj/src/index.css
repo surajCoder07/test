@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --primary-Magenta :#020021;
+   --primary-Bright-Purple: #5D13F9;
+    --White: #FFFFFF;
+}
